@@ -24,9 +24,9 @@ Here's how this works.
 
 - Gov4Git will let you know when it starts managing the issue, in a comment like [this one](https://github.com/gov4git/roadmap/issues/7#issuecomment-1902123664)
 
-- A managed issue is associated with a _priority_ (score), which reflects its importance according to the community
+- When an issue is managed it is associated with a _priority_ (score), which reflects its importance according to the community
 
-- All collaborators can influence the priority of an issue by spending credits for or against it in the app. Priority scores are updated every few minutes and reported in a comment on the issue like [this one](https://github.com/gov4git/roadmap/issues/7#issuecomment-1902197926)
+- Collaborators can influence the priority of an issue by spending credits for or against it in the app. Priority scores are updated every few minutes and reported in a comment on the issue like [this one](https://github.com/gov4git/roadmap/issues/7#issuecomment-1902197926)
 
 - Credits spent on prioritizing an issue are held as bounty to be rewarded to the author of the pull request which eventually resolves the issue
 
@@ -39,4 +39,13 @@ Here's how this works.
 
 - You can change PR descriptions at any time. Gov4Git knows what to do.
 
-- Gov4Git will let you know when it starts managing the PR, in a comment like [this one](XXX)
+- Gov4Git will let you know when it starts managing the PR, in a comment like [this one](https://github.com/gov4git/roadmap/pull/10#issuecomment-1902235538)
+
+- When a PR is managed it is associated with an _approval_ (score), which reflects its fitness for merging according to the community
+
+- XXX
+
+
+### View the community dashboard
+
+Keep an eye on the [community dashboard](https://github.com/gov4git/roadmap/issues/2) for a bird-eye view.
